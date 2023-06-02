@@ -23,7 +23,7 @@ postcode in the url to relevant location information in the email.
 
 ## You should provide with your submission
 
-- A private repository uploaded to Github.com with access granted to roberts.chris [at] abc.net.au
+- A forked private repository uploaded to Github.com with access granted to roberts.chris [at] abc.net.au (github user: chrsr)
 - A project README.md with instructions on how to run the application locally
 - Unit testing where applicable
 - Brief instructions for how you would deploy this application to the host of your choice
